@@ -1,52 +1,106 @@
 {
-  "toys": [
+  "resumes": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "school": "Machakos University",
+      "level": "Bsc Statistics",
+      "start": "2014-09-04",
+      "end": "2018-11-30",
+      "languages": "English,Kiwahili and Kalenjin",
+      "name": "Kipleting Edwin",
+      "proffesion": "Software Developer",
+      "email": "kipletingedwin4@gmail.com",
+      "phone": "0728835275",
+      "address": "1318,Eldoret",
+      "head": "Pata Keja",
+      "description": "Have a house ata a tap of a button",
+      "project_url": "www.bookkejayako.com",
+      "skills": "React,JavaScript,HTML,CSS",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "school": "Kenya Medical Training College",
+      "level": "Diploma in Nursing",
+      "start": "2014-09-30",
+      "end": "2018-11-30",
+      "languages": "Kiswahili,English",
+      "name": "Peter Kwoba",
+      "proffesion": "Nurse",
+      "email": "peterkwoba12@gmail.com",
+      "phone": "0712345678",
+      "address": "2316L Limuru",
+      "head": "Patient treatment",
+      "description": "All abou taking care of my patients",
+      "project_url": "www.patientcare.com",
+      "skills": "Nursing,Home Caring",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "school": "Kenyatta University",
+      "level": "Bsc Mecganical Engineering",
+      "start": "2017-09-19",
+      "end": "2021-11-25",
+      "languages": "French,English and Swahili",
+      "name": "John Doe",
+      "proffesion": "Mechanical Engineer",
+      "email": "johndoe@yahoo.com",
+      "phone": "0709876543",
+      "address": "3417 Mombasa",
+      "head": "n/a",
+      "description": "n/a",
+      "project_url": "n/a",
+      "skills": "Mechanical Enginnering",
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "school": "Taita Taveta University",
+      "level": "Computer Science",
+      "start": "2016-01-05",
+      "end": "2020-11-30",
+      "languages": "Kiswahili,Englisj and Japanese",
+      "name": "Gabriel Sam",
+      "proffesion": "Computer Scientist",
+      "email": "samgabriel@yahoo.com",
+      "phone": "0723562317",
+      "address": "8739 KIsumu",
+      "head": "Fix Bugger",
+      "description": "Its all about triying to quick fix bugs",
+      "project_url": "www.fixbugger.com",
+      "skills": "PHP,Laravell,Vue,",
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "school": "Kabarak University",
+      "level": "Diploma in Dietetics",
+      "start": "2018-12-25",
+      "end": "2020-06-16",
+      "languages": "English,Kiswahili",
+      "name": "Harry Jones",
+      "proffesion": "Dentist",
+      "email": "harryjones@gmail.com",
+      "phone": "0734217638",
+      "address": "3453 Kitale",
+      "head": "n/a",
+      "description": "n/a",
+      "project_url": "n/a",
+      "skills": "Dentist",
+      "id": 5
     },
     {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "school": "Machakos University",
+      "level": "Bsc Statistics",
+      "start": "2022-07-20",
+      "end": "2022-07-28",
+      "languages": "Kiswahili,English,Kalenjin",
+      "name": "Kipleting Edwin",
+      "proffesion": "Software Developer",
+      "email": "kipletingedwin4@gmail.com",
+      "phone": "0728835275",
+      "address": "1318,Eldoret",
+      "head": "Pata Keja",
+      "description": "hsjss",
+      "project_url": "www.patakeja.com",
+      "skills": "css",
+      "id": 6
     }
   ]
 }
